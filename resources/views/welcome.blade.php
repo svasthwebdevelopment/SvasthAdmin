@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  dvsvs
+                Svasth
                 </div>
 
                 <div class="links">
